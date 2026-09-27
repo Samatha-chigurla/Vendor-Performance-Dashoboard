@@ -1,0 +1,16 @@
+#SQLite Database
+inventory.db
+
+#Large Data sets
+data/sales.csv
+data/purchases.csv
+
+#Logsg
+logs/
+
+#Python Cache
+__pycache__/
+
+.vscode
+*.log
+.ipynb_checkpoints/
